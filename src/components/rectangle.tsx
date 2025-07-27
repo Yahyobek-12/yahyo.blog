@@ -25,7 +25,7 @@ const Rectangle = () => {
         <div className="absolute left-[23.5px] w-[2px] h-[100px] bg-black animate-moveX" />
         <div className="absolute right-[23.5px] w-[2px] h-[100px] bg-black animate-moveX" />
         <div className="absolute top-[23.5px] h-[2px] w-[100px] bg-black animate-moveX" />
-        <div className="absolute bottom-[23.5px] h-[2px] w-[100px] bg-black animate-moveX" />
+        <div className="absolute bottom-[18px] h-[2px] w-[100px] bg-black animate-moveX" />
       </div>
     </div>
   );
