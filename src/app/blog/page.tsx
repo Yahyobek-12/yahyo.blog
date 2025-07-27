@@ -24,7 +24,7 @@ const posts = [
 const Page = () => {
   return (
     <div className='w-full min-h-screen flex flex-col items-center py-10 px-4 '>
-      <h1 className='font-bold text-6xl mb-8 text-blue-700'>Yahyobek's Blog</h1>
+      <h1 className='font-bold text-6xl mb-8 text-blue-700'>Yahyobek Blog</h1>
       <div className='max-w-2xl w-full space-y-8'>
         {posts.map((post) => (
           <a
